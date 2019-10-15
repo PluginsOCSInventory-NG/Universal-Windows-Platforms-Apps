@@ -1,0 +1,12 @@
+{
+  "displayName" : "App Packages (Universal Windows Platform applications)",
+  "author" : ["Ludovic Gruttadauria"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "version" : "2.0",
+  "licence" : "GPLv3",
+  "description" : {
+    "fr" : "Liste les applications de type plateforme universelle Windows (UWP: App Packages)",
+    "en" : "List Universal Windows Platform applications (UWP: App Packages)"
+  }
+}
