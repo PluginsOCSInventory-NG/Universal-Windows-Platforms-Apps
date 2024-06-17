@@ -5,9 +5,9 @@
         <value>fr_FR</value>
     </hook>
     <hook type="cdentry">
-        <identifier>cd_UWPapps</identifier>
+        <identifier>cd_uwpapps</identifier>
         <translation>41000</translation>
         <category>software</category>
-        <available>UWPapps</available>
+        <available>uwpapps</available>
     </hook>
 </hookstore>
