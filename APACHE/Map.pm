@@ -8,13 +8,13 @@
 ## Please refer to the General Public Licence http://www.gnu.org/ or Licence.txt
 ################################################################################
  
-package Apache::Ocsinventory::Plugins::UWPapps::Map;
+package Apache::Ocsinventory::Plugins::Uwpapps::Map;
  
 use strict;
  
 use Apache::Ocsinventory::Map;
 
-$DATA_MAP{UWPapps} = {
+$DATA_MAP{uwpapps} = {
    mask => 0,
    multi => 1,
    auto => 1,
