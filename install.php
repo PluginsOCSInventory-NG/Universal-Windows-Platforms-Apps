@@ -7,7 +7,7 @@ function extension_install_UWPapps()
 {
     $commonObject = new ExtensionCommon;
 
-    $commonObject -> sqlQuery("CREATE TABLE IF NOT EXISTS `UWPapps` (
+    $commonObject -> sqlQuery("CREATE TABLE IF NOT EXISTS `uwpapps` (
 								`ID` INT(11) NOT NULL AUTO_INCREMENT,
 								`HARDWARE_ID` INT(11) NOT NULL,
                                 `UWPAPPNAME` VARCHAR(128) NOT NULL,
