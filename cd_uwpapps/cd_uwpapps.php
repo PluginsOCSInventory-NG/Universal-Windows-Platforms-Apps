@@ -23,7 +23,7 @@
 	if (!isset($protectedPost['SHOW'])){
 		$protectedPost['SHOW'] = 'NOSHOW';
 	}
-	$form_name="UWPapps";
+	$form_name="uwpapps";
 	$table_name=$form_name;
 	$tab_options=$protectedPost;
 	$tab_options['form_name']=$form_name;
